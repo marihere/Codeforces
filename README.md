@@ -3,7 +3,7 @@
 #
 
 ## Difficulty levels
-1. [Level A](https://github.com/marihere/subliminally_gui/blob/master/Level%20A)
-2. [Level B](https://github.com/marihere/subliminally_gui/blob/master/Level%20B)
+1. [Level A](https://github.com/marihere/Codeforces/tree/master/Level%20A)
+2. [Level B](https://github.com/marihere/Codeforces/tree/master/Level%20B)
 
 <br>
